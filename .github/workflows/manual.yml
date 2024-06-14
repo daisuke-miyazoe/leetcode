@@ -5,6 +5,11 @@ name: Slack Notification
 # Controls when the action will run. Workflow runs when manually triggered using the UI
 # or API.
 
+env:
+  SLACK_USERNAME: PushBot
+  SLACK_ICON: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_URL }}
+
 on:
   push:
     branches: 
