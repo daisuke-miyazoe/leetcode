@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89811df5-2093-4f4a-a770-24030db33be7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/88_Merge_Sorted_Array/description.txt" beforeDir="false" afterPath="$PROJECT_DIR$/88_Merge_Sorted_Array/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/88_Merge_Sorted_Array/miyazoe.py" beforeDir="false" afterPath="$PROJECT_DIR$/88_Merge_Sorted_Array/miyazoe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27_Remove_Element /Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718342347850</updated>
-      <workItem from="1718342348923" duration="2300000" />
+      <workItem from="1718342348923" duration="2463000" />
     </task>
     <servers />
   </component>
