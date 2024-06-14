@@ -8,7 +8,7 @@ name: Slack Notification
 env:
   SLACK_USERNAME: PushBot
   SLACK_ICON: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  SLACK_WEBHOOK: ${{ https://hooks.slack.com/services/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 }}
+  SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_URL }}
 
 on:
   push:
